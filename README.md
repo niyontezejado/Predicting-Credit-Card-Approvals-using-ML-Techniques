@@ -73,7 +73,7 @@ The dataset used in this project consists of 690 records and 16 features. The fe
 
 ## Results
 
-- **Accuracy**: The neural network model achieved an accuracy of `X%` on the test dataset.
+- **Accuracy**: The neural network model achieved an accuracy of `77%` on the test dataset.
 - **Other Metrics**: Additional evaluation metrics such as precision, recall, and F1-score were used to assess the overall performance of the models.
 
 ## Conclusion and Future Work
